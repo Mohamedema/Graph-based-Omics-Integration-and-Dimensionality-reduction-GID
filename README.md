@@ -1,1 +1,1 @@
-# Graph-based-Omics-Integration-and-Dimensionality-reduction-GID-
+# Graph based Omics Integration and Dimensionality reduction-GID 
